@@ -20,7 +20,7 @@ ADDING ADDITIONAL CAPABILITIES TO MY TESLA
 
 9.Send E-mails/SMS/WhatsUp notifications to inform about the TESLA car variables.
 
-10. 
+10.Set Geofences.
 
 --------------------------------------------------------------------------------------------------------------
 
