@@ -18,4 +18,22 @@ ADDING ADDITIONAL CAPABILITIES TO MY TESLA
 
 8.Streaming from the 9 TESLA car camaras in my laptop.
 
-9.
+--------------------------------------------------------------------------------------------------------------
+
+Angular + Angular Material + .NET 7 + Mongo_DB
+
+MAUI
+
+Flutter
+
+CosmosDB
+
+DynamoDB
+
+Java/Spring Boot
+
+Kaffka
+
+Kinesis
+
+Microservices
