@@ -18,6 +18,10 @@ ADDING ADDITIONAL CAPABILITIES TO MY TESLA
 
 8.Streaming from the 9 TESLA car camaras in my laptop.
 
+9.Send E-mails/SMS/WhatsUp notifications to inform about the TESLA car variables.
+
+10. 
+
 --------------------------------------------------------------------------------------------------------------
 
 Angular + Angular Material + .NET 7 + Mongo_DB
